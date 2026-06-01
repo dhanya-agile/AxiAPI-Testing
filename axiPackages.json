@@ -27,6 +27,20 @@
         "PackageTest1"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "PackageTestNew",
+      "Branch": "free",
+      "PackageDescription": "new1 ",
+      "PackageVersion": "11.3",
+      "PackageAuthor": "Admin",
+      "PackageCreatedOn": "2026-06-01T06:29:22Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "PackageTestNew"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }

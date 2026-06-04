@@ -1,0 +1,18 @@
+{
+  "Packages": [
+    {
+      "PackageName": "SQLPackageTest",
+      "Branch": "main",
+      "PackageDescription": "1.0.0 ",
+      "PackageVersion": "11.3",
+      "PackageAuthor": "Admin",
+      "PackageCreatedOn": "2026-06-04T07:41:45Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "SQLPackageTest"
+      ],
+      "Category": "Enterprise"
+    }
+  ]
+}

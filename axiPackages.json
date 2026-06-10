@@ -41,6 +41,21 @@
         "NewTestPackage"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "ERP_Package",
+      "Branch": "Old_code_branch",
+      "PackageDescription": "3.4.5 ",
+      "PackageVersion": "11.4",
+      "PackageAuthor": "UserAdmin",
+      "PackageCreatedOn": "2026-06-10T18:10:03Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP",
+        "Package"
+      ],
+      "Category": "Enterprise"
     }
   ],
   "GitBranches": [

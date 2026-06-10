@@ -13,6 +13,23 @@
         "SQLPackageTest"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "TestmainPackage",
+      "Branch": "main",
+      "PackageDescription": "3.4.5 ",
+      "PackageVersion": "11.4",
+      "PackageAuthor": "UserAdmin",
+      "PackageCreatedOn": "2026-06-10T16:44:35Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "TestmainPackage"
+      ],
+      "Category": "Enterprise"
     }
+  ],
+  "GitBranches": [
+    "main"
   ]
 }
